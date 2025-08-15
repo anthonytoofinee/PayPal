@@ -1,0 +1,16 @@
+{
+  "name": "PayPal Sandbox",
+  "short_name": "Sandbox PayPal",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#003087",
+  "icons": [
+    {
+      "src": "https://www.paypalobjects.com/webstatic/icon/pp258.png",
+      "sizes": "258x258",
+      "type": "image/png"
+    }
+  ]
+}
